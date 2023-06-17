@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857198465705",
+    "project_id": "cramoxnotification-a28ed",
+    "storage_bucket": "cramoxnotification-a28ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857198465705:android:989d049339c9460e510fb8",
+        "android_client_info": {
+          "package_name": "com.team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857198465705-f2bpe5s8oh8416t11ok48prq3vfacvgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMftv5B_TaNpnhLybnE-wv8DgMoUM8AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857198465705-f2bpe5s8oh8416t11ok48prq3vfacvgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
